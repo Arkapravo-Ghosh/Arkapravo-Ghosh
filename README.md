@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![status](https://img.shields.io/badge/Btw-I%20use%20Arch-blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkapravo-Ghosh.Arkapravo-Ghosh)
