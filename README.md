@@ -18,9 +18,7 @@
 </div>
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Arkapravo-Ghosh&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkapravo-Ghosh&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)\
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arkapravo-Ghosh&theme=windows-dark&hide_border=true)
 
 </div>
