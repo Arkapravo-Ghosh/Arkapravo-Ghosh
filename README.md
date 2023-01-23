@@ -3,13 +3,19 @@
 ![status](https://img.shields.io/badge/Btw-I%20use%20Arch-blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkapravo-Ghosh.Arkapravo-Ghosh)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arkapravo-Ghosh&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="center">Social Media</h3>
 
 <p align="center">
 <a href="https://twitter.com/ArkapravoGhosh1"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arkapravo-ghosh/"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/l.png"></a>&nbsp;&nbsp;
 </p>
+
+<h3 align="center">GitHub Trophies</h3>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arkapravo-Ghosh&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 
 ### Platform
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/linux.png" height="30"></code>
