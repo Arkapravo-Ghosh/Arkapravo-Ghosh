@@ -21,6 +21,7 @@
 
 ### Database:
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/db/mysql1.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/db/mariadb.png" height="30"></code>
 
 ### Cloud/Dev-Ops:
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/gcp.png" height="30"></code>
