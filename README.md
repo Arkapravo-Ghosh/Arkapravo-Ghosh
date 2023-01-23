@@ -1,5 +1,4 @@
-### Hi there 👋
-Welcome to my GitHub Account
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Arkaprav-Ghosh/Arkapravo-Ghosh/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 
 <!--
 **Arkapravo-Ghosh/Arkapravo-Ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
