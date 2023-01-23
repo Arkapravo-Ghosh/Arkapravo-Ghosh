@@ -19,7 +19,9 @@
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arkapravo-Ghosh&theme=windows-dark&hide_border=true)
+<img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388511-9b4590dc-96f5-402a-9b6b-b51add4efc70.png">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arkapravo-Ghosh&theme=windows-dark&hide_border=true"/>
+<img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388859-2bac10f7-efd5-45d7-93bb-777271b5426f.png">
 
 </div>
 
