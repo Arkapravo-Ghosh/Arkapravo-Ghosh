@@ -19,7 +19,7 @@
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/pl/c.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/pl/python.png" height="30"></code>
 
-#### Database:
+### Database:
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/db/mysql1.png" height="30"></code>
 
 ### Cloud/Dev-Ops:
