@@ -2,6 +2,8 @@
 
 ![status](https://img.shields.io/badge/Btw-I%20use%20Arch-blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkapravo-Ghosh.Arkapravo-Ghosh)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arkapravo-Ghosh&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 <h3 align="center">Social Media</h3>
 
 <p align="center">
