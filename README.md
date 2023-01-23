@@ -7,3 +7,25 @@
 <a href="https://twitter.com/ArkapravoGhosh1"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arkapravo-ghosh/"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/l.png"></a>&nbsp;&nbsp;
 </p>
+
+### Platform
+<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/linux.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/windows.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/macos.jpg" height="30"></code>
+
+## :open_book: :books: Skilled in :closed_book: :desktop_computer:
+
+### Languages:
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
+
+#### Database:
+<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/db/mysql1.png" height="30"></code>
+
+### Cloud/Dev-Ops:
+
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/aws.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/docker.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/ku.jpg" height="30"></code>
