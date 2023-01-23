@@ -17,12 +17,12 @@
   
 </div>
 
+## :open_book: :books: Skilled in :closed_book: :desktop_computer:
+
 ### Platform:
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/linux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/windows.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/macos.png" height="30"></code>
-
-## :open_book: :books: Skilled in :closed_book: :desktop_computer:
 
 ### Languages:
 <code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/pl/c.png" height="30"></code>
