@@ -25,9 +25,11 @@
 <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388859-2bac10f7-efd5-45d7-93bb-777271b5426f.png">
 <p></p>
 </div>
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000" alt="Arkapravo-Ghosh" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&hide_progress=true" alt="Arkapravo-Ghosh" />
+</div>
 
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
