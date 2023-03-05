@@ -27,7 +27,7 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000" alt="Arkapravo-Ghosh" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=000000" alt="Arkapravo-Ghosh" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&hide_progress=true" alt="Arkapravo-Ghosh" />
 
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
