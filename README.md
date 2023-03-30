@@ -35,27 +35,37 @@
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
 
 ### Platform:
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/linux.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/windows.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/macos.png" height="30"></code>
+<div align=center>
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/linux.png" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/windows.jpg" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/platform/macos.png" height="30">&nbsp;&nbsp;
+</div>
 
 ### Languages:
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/pl/c.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/pl/python.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/pl/bash.png" height="30"></code>
+<div align=center>
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/pl/c.png" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/pl/python.png" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/pl/bash.png" height="30">&nbsp;&nbsp;
+</div>
 
 ### Database:
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/db/mysql1.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/db/mariadb.png" height="30"></code>
+<div align=center>
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/db/mysql1.png" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/db/mariadb.png" height="30">&nbsp;&nbsp;
+</div>
 
 ### Cloud/Dev-Ops:
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/gcp.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/aws.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/git.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/github.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/docker.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/ku.jpg" height="30"></code>
+<div align=center>
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/gcp.png" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/aws.png" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/git.png" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/github.jpg" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/docker.png" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/cloud/ku.jpg" height="30">&nbsp;&nbsp;
+</div>
 
 ### IoT:
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/iot/arduino.svg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/iot/rpi.png" height="30"></code>
+<div align=center>
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/iot/arduino.svg" height="30">&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/iot/rpi.png" height="30">&nbsp;&nbsp;
+</div>
