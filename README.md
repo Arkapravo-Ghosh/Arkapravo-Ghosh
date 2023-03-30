@@ -13,16 +13,16 @@
 
 <h3 align="center">GitHub Trophies</h3>
 <div align="center">
-  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arkapravo-Ghosh&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=5)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
 </div>
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
 
-<img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388511-9b4590dc-96f5-402a-9b6b-b51add4efc70.png">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arkapravo-Ghosh&theme=windows-dark&hide_border=true"/>
-<img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388859-2bac10f7-efd5-45d7-93bb-777271b5426f.png">
+<img height="100" width="100" src="https://user-images.githubusercontent.com/78967360/158388511-9b4590dc-96f5-402a-9b6b-b51add4efc70.png">
+<img align="center" width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=Arkapravo-Ghosh&theme=windows-dark&hide_border=true"/>
+<img height="100" width="100" src="https://user-images.githubusercontent.com/78967360/158388859-2bac10f7-efd5-45d7-93bb-777271b5426f.png">
 <p></p>
 </div>
 <div align=center>
