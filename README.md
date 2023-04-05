@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://twitter.com/ArkapravoGhosh1"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/t.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arkapravo-ghosh/"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/l.png"></a>&nbsp;&nbsp;
-<a href="https://ark-site.netlify.app/"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/p.jpg"></a>&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/Arkapravo-Ghosh/ark-resume/main/Arkapravo_Ghosh_Resume.pdf"><img height="30" src="https://raw.githubusercontent.com/Arkapravo-Ghosh/Arkapravo-Ghosh/master/images/social/p.jpg"></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">GitHub Trophies</h3>
