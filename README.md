@@ -53,6 +53,7 @@
 <img src="images/frontend/html.png" height="30">&nbsp;&nbsp;
 <img src="images/frontend/css.png" height="30">&nbsp;&nbsp;
 <img src="images/frontend/figma.png" height="30">&nbsp;&nbsp;
+</div>
 
 ## Database:
 <div align=center>
