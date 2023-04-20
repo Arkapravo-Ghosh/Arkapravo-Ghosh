@@ -74,4 +74,5 @@
 <div align=center>
 <img src="images/iot/arduino.png" height="30" alt="Arduino">&nbsp;&nbsp;
 <img src="images/iot/rpi.png" height="30" alt="Raspberry Pi">&nbsp;&nbsp;
+<img src="images/iot/node-red.png" height="30" alt="Node-RED">&nbsp;&nbsp;
 </div>
