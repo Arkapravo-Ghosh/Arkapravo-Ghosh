@@ -72,6 +72,6 @@
 
 ## IoT:
 <div align=center>
-<img src="images/iot/arduino.svg" height="30">&nbsp;&nbsp;
+<img src="images/iot/arduino.png" height="30">&nbsp;&nbsp;
 <img src="images/iot/rpi.png" height="30">&nbsp;&nbsp;
 </div>
