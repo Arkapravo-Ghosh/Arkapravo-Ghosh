@@ -37,7 +37,7 @@
 ## Platform:
 <div align=center>
 <img src="images/platform/linux.png" height="30">&nbsp;&nbsp;
-<img src="images/platform/windows.jpg" height="30">&nbsp;&nbsp;
+<img src="images/platform/windows.png" height="30">&nbsp;&nbsp;
 <img src="images/platform/macos.png" height="30">&nbsp;&nbsp;
 </div>
 
