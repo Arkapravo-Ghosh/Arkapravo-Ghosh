@@ -60,14 +60,14 @@
 <img src="images/db/mariadb.png" height="30">&nbsp;&nbsp;
 </div>
 
-## Cloud/Dev-Ops:
+## Cloud/DevOps:
 <div align=center>
 <img src="images/cloud/gcp.png" height="30">&nbsp;&nbsp;
 <img src="images/cloud/aws.png" height="30">&nbsp;&nbsp;
 <img src="images/cloud/git.png" height="30">&nbsp;&nbsp;
-<img src="images/cloud/github.jpg" height="30">&nbsp;&nbsp;
+<img src="images/cloud/github.png" height="30">&nbsp;&nbsp;
 <img src="images/cloud/docker.png" height="30">&nbsp;&nbsp;
-<img src="images/cloud/ku.jpg" height="30">&nbsp;&nbsp;
+<img src="images/cloud/kubernetes.png" height="30">&nbsp;&nbsp;
 </div>
 
 ## IoT:
