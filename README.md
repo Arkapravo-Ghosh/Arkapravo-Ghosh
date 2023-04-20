@@ -31,6 +31,7 @@
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&hide_progress=true" alt="Arkapravo-Ghosh" />
 </div>
 
+<div class="skills">
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
 
@@ -76,3 +77,9 @@
 <img src="images/iot/arduino.svg" height="30">&nbsp;&nbsp;
 <img src="images/iot/rpi.png" height="30">&nbsp;&nbsp;
 </div>
+</div>
+<style>
+    .skills img {
+        height: 50px;
+    }
+</style>
