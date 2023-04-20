@@ -57,7 +57,7 @@
 
 ## Database:
 <div align=center>
-<img src="images/db/mysql1.png" height="30">&nbsp;&nbsp;
+<img src="images/db/mysql.png" height="30">&nbsp;&nbsp;
 <img src="images/db/mariadb.png" height="30">&nbsp;&nbsp;
 </div>
 
