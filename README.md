@@ -37,42 +37,42 @@
 </h1>
 
 <h1>Platform:&nbsp;&nbsp;
+<img src="images/platform/macos.png" height="30" alt="macOS" align=right>&nbsp;&nbsp;
 <img src="images/platform/linux.png" height="30" alt="Linux" align=right>&nbsp;&nbsp;
 <img src="images/platform/windows.png" height="30" alt="Windows" align=right>&nbsp;&nbsp;
-<img src="images/platform/macos.png" height="30" alt="macOS" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Languages:&nbsp;&nbsp;
+<img src="images/pl/bash.png" height="30" alt="Bash" align=right>&nbsp;&nbsp;
 <img src="images/pl/c.png" height="30" alt="C" align=right>&nbsp;&nbsp;
 <img src="images/pl/python.png" height="30" alt="Python" align=right>&nbsp;&nbsp;
-<img src="images/pl/bash.png" height="30" alt="Bash" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Frontend or UI/UX:&nbsp;&nbsp;
-<img src="images/frontend/html.png" height="30" alt="HTML" align=right>&nbsp;&nbsp;
-<img src="images/frontend/css.png" height="30" alt="CSS" align=right>&nbsp;&nbsp;
 <img src="images/frontend/figma.png" height="30" alt="Figma" align=right>&nbsp;&nbsp;
+<img src="images/frontend/css.png" height="30" alt="CSS" align=right>&nbsp;&nbsp;
+<img src="images/frontend/html.png" height="30" alt="HTML" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Database:&nbsp;&nbsp;
-<img src="images/db/mysql.png" height="30" alt="MySQL" align=right>&nbsp;&nbsp;
 <img src="images/db/mariadb.png" height="30" alt="MariaDB" align=right>&nbsp;&nbsp;
+<img src="images/db/mysql.png" height="30" alt="MySQL" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Cloud:&nbsp;&nbsp;
-<img src="images/cloud/gcp.png" height="30" alt="Google Cloud Platform" align=right>&nbsp;&nbsp;
 <img src="images/cloud/aws.png" height="30" alt="Amazon Web Services" align=right>&nbsp;&nbsp;
+<img src="images/cloud/gcp.png" height="30" alt="Google Cloud Platform" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>DevOps:&nbsp;&nbsp;
-<img src="images/cloud/git.png" height="30" alt="Git" align=right>&nbsp;&nbsp;
-<img src="images/cloud/github.png" height="30" alt="GitHub" align=right>&nbsp;&nbsp;
-<img src="images/cloud/docker.png" height="30" alt="Docker" align=right>&nbsp;&nbsp;
 <img src="images/cloud/kubernetes.png" height="30" alt="Kubernetes" align=right>&nbsp;&nbsp;
+<img src="images/cloud/docker.png" height="30" alt="Docker" align=right>&nbsp;&nbsp;
+<img src="images/cloud/github.png" height="30" alt="GitHub" align=right>&nbsp;&nbsp;
+<img src="images/cloud/git.png" height="30" alt="Git" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>IoT:&nbsp;&nbsp;
-<img src="images/iot/arduino.png" height="30" alt="Arduino" align=right>&nbsp;&nbsp;
-<img src="images/iot/rpi.png" height="30" alt="Raspberry Pi" align=right>&nbsp;&nbsp;
 <img src="images/iot/node-red.png" height="30" alt="Node-RED" align=right>&nbsp;&nbsp;
+<img src="images/iot/rpi.png" height="30" alt="Raspberry Pi" align=right>&nbsp;&nbsp;
+<img src="images/iot/arduino.png" height="30" alt="Arduino" align=right>&nbsp;&nbsp;
 </h1>
