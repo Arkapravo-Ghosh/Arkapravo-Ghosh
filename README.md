@@ -31,39 +31,39 @@
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=javascript,assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B" height="195px" alt="Language Stats">
 </div>
 <br>
-<h2 align=center>
+<h3 align=center>
 
 :open_book: :books: Skilled in :closed_book: :desktop_computer:
-</h1>
+</h3>
 
-## Platform:
+### Platform:
 <div align=center>
 <img src="images/platform/linux.png" height="40" alt="Linux">&nbsp;&nbsp;
 <img src="images/platform/windows.png" height="40" alt="Windows">&nbsp;&nbsp;
 <img src="images/platform/macos.png" height="40" alt="macOS">&nbsp;&nbsp;
 </div>
 
-## Languages:
+### Languages:
 <div align=center>
 <img src="images/pl/c.png" height="40" alt="C">&nbsp;&nbsp;
 <img src="images/pl/python.png" height="40" alt="Python">&nbsp;&nbsp;
 <img src="images/pl/bash.png" height="40" alt="Bash">&nbsp;&nbsp;
 </div>
 
-## Frontend or UI/UX:
+### Frontend or UI/UX:
 <div align=center>
 <img src="images/frontend/html.png" height="40" alt="HTML">&nbsp;&nbsp;
 <img src="images/frontend/css.png" height="40" alt="CSS">&nbsp;&nbsp;
 <img src="images/frontend/figma.png" height="40" alt="Figma">&nbsp;&nbsp;
 </div>
 
-## Database:
+### Database:
 <div align=center>
 <img src="images/db/mysql.png" height="40" alt="MySQL">&nbsp;&nbsp;
 <img src="images/db/mariadb.png" height="40" alt="MariaDB">&nbsp;&nbsp;
 </div>
 
-## Cloud/DevOps:
+### Cloud/DevOps:
 <div align=center>
 <img src="images/cloud/gcp.png" height="40" alt="Google Cloud Platform">&nbsp;&nbsp;
 <img src="images/cloud/aws.png" height="40" alt="Amazon Web Services">&nbsp;&nbsp;
@@ -73,7 +73,7 @@
 <img src="images/cloud/kubernetes.png" height="40" alt="Kubernetes">&nbsp;&nbsp;
 </div>
 
-## IoT:
+### IoT:
 <div align=center>
 <img src="images/iot/arduino.png" height="40" alt="Arduino">&nbsp;&nbsp;
 <img src="images/iot/rpi.png" height="40" alt="Raspberry Pi">&nbsp;&nbsp;
