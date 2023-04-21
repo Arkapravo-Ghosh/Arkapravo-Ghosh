@@ -49,9 +49,9 @@
 </h1>
 
 <h1>Frontend or UI/UX:&nbsp;&nbsp;
-<img src="images/frontend/figma.png" height="34" alt="Figma" align=right>&nbsp;&nbsp;
-<img src="images/frontend/css.png" height="34" alt="CSS" align=right>&nbsp;&nbsp;
-<img src="images/frontend/html.png" height="34" alt="HTML" align=right>&nbsp;&nbsp;
+<img src="images/frontend/figma.svg" height="34" alt="Figma" align=right>&nbsp;&nbsp;
+<img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
+<img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Database:&nbsp;&nbsp;
