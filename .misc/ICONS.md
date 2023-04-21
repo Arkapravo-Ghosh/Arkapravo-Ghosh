@@ -34,4 +34,10 @@
         <img height="150px" src="../images/cloud/docker.svg" alt="Docker Icon">
         <img height="150px" src="../images/cloud/kubernetes.svg" alt="Kubernetes Icon">
     </div>
+    <div>
+        <h1>IoT Icons</h1>
+        <img height="150px" src="../images/iot/arduino.svg" alt="Arduino Icon">
+        <img height="150px" src="../images/iot/rpi.svg" alt="Raspberry Pi Icon">
+        <img height="150px" src="../images/iot/node-red.svg" alt="Node-RED Icon">
+    </div>
 </div>

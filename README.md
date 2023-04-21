@@ -72,7 +72,7 @@
 </h1>
 
 <h1>IoT:&nbsp;&nbsp;
-<img src="images/iot/node-red.png" height="34" alt="Node-RED" align=right>&nbsp;&nbsp;
-<img src="images/iot/rpi.png" height="34" alt="Raspberry Pi" align=right>&nbsp;&nbsp;
-<img src="images/iot/arduino.png" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
+<img src="images/iot/node-red.svg" height="34" alt="Node-RED" align=right>&nbsp;&nbsp;
+<img src="images/iot/rpi.svg" height="34" alt="Raspberry Pi" align=right>&nbsp;&nbsp;
+<img src="images/iot/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
 </h1>
