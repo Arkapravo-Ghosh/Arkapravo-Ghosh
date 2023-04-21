@@ -43,9 +43,9 @@
 </h1>
 
 <h1>Languages:&nbsp;&nbsp;
-<img src="images/pl/bash.png" height="34" alt="Bash" align=right>&nbsp;&nbsp;
-<img src="images/pl/c.png" height="34" alt="C" align=right>&nbsp;&nbsp;
-<img src="images/pl/python.png" height="34" alt="Python" align=right>&nbsp;&nbsp;
+<img src="images/pl/bash.svg" height="34" alt="Bash" align=right>&nbsp;&nbsp;
+<img src="images/pl/c.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
+<img src="images/pl/python.svg" height="34" alt="Python" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Frontend or UI/UX:&nbsp;&nbsp;
