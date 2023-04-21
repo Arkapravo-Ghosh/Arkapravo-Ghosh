@@ -59,9 +59,12 @@
 <img src="images/db/mariadb.png" height="30" alt="MariaDB" align=right>&nbsp;&nbsp;
 </h1>
 
-<h1>Cloud/DevOps:&nbsp;&nbsp;
+<h1>Cloud:&nbsp;&nbsp;
 <img src="images/cloud/gcp.png" height="30" alt="Google Cloud Platform" align=right>&nbsp;&nbsp;
 <img src="images/cloud/aws.png" height="30" alt="Amazon Web Services" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>DevOps:&nbsp;&nbsp;
 <img src="images/cloud/git.png" height="30" alt="Git" align=right>&nbsp;&nbsp;
 <img src="images/cloud/github.png" height="30" alt="GitHub" align=right>&nbsp;&nbsp;
 <img src="images/cloud/docker.png" height="30" alt="Docker" align=right>&nbsp;&nbsp;
