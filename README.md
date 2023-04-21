@@ -31,10 +31,10 @@
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=javascript,assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B" height="195px" alt="Language Stats">
 </div>
 <br>
-<h3 align=center>
+<h1 align=center>
 
 :open_book: :books: Skilled in :closed_book: :desktop_computer:
-</h3>
+</h1>
 
 <h1>Platform:&nbsp;&nbsp;
 <img src="images/platform/linux.png" height="30" alt="Linux" align=right>&nbsp;&nbsp;
