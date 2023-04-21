@@ -1,0 +1,2 @@
+- All GitHub Trophies might not be shown in the [README.md](README.md) file, but they are still counted in the [TROPHIES.md](.misc/TROPHIES.md) file.
+- Skill Icons are available for download in [ICONS.md](.misc/ICONS.md) file.
