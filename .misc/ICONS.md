@@ -25,4 +25,13 @@
         <img height="150px" src="../images/db/mysql.svg" alt="MySQL Icon">
         <img height="150px" src="../images/db/mariadb.svg" alt="MariaDB Icon">
     </div>
+    <div>
+        <h1>Cloud/DevOps Icons</h1>
+        <img height="150px" src="../images/cloud/gcp.svg" alt="Google Cloud Platform Icon">
+        <img height="150px" src="../images/cloud/aws.svg" alt="Amazon Web Services Icon">
+        <img height="150px" src="../images/cloud/git.svg" alt="Git Icon">
+        <img height="150px" src="../images/cloud/github.svg" alt="GitHub Icon">
+        <img height="150px" src="../images/cloud/docker.svg" alt="Docker Icon">
+        <img height="150px" src="../images/cloud/kubernetes.svg" alt="Kubernetes Icon">
+    </div>
 </div>

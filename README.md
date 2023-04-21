@@ -60,15 +60,15 @@
 </h1>
 
 <h1>Cloud:&nbsp;&nbsp;
-<img src="images/cloud/aws.png" height="34" alt="Amazon Web Services" align=right>&nbsp;&nbsp;
-<img src="images/cloud/gcp.png" height="34" alt="Google Cloud Platform" align=right>&nbsp;&nbsp;
+<img src="images/cloud/aws.svg" height="34" alt="Amazon Web Services" align=right>&nbsp;&nbsp;
+<img src="images/cloud/gcp.svg" height="34" alt="Google Cloud Platform" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>DevOps:&nbsp;&nbsp;
-<img src="images/cloud/kubernetes.png" height="34" alt="Kubernetes" align=right>&nbsp;&nbsp;
-<img src="images/cloud/docker.png" height="34" alt="Docker" align=right>&nbsp;&nbsp;
-<img src="images/cloud/github.png" height="34" alt="GitHub" align=right>&nbsp;&nbsp;
-<img src="images/cloud/git.png" height="34" alt="Git" align=right>&nbsp;&nbsp;
+<img src="images/cloud/kubernetes.svg" height="34" alt="Kubernetes" align=right>&nbsp;&nbsp;
+<img src="images/cloud/docker.svg" height="34" alt="Docker" align=right>&nbsp;&nbsp;
+<img src="images/cloud/github.svg" height="34" alt="GitHub" align=right>&nbsp;&nbsp;
+<img src="images/cloud/git.svg" height="34" alt="Git" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>IoT:&nbsp;&nbsp;
