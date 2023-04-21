@@ -6,9 +6,9 @@
 <h3 align="center">Social Media</h3>
 
 <p align="center">
-<a href="https://twitter.com/ArkapravoGhosh1"><img height="30" src="images/social/t.jpg" alt="Twitter"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/arkapravo-ghosh/"><img height="30" src="images/social/l.png" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://raw.githubusercontent.com/Arkapravo-Ghosh/ark-resume/main/Arkapravo_Ghosh_Resume.pdf"><img height="30" src="images/social/p.jpg" alt="Resume"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ArkapravoGhosh1"><img height="40" src="images/social/t.jpg" alt="Twitter"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arkapravo-ghosh/"><img height="40" src="images/social/l.png" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/Arkapravo-Ghosh/ark-resume/main/Arkapravo_Ghosh_Resume.pdf"><img height="40" src="images/social/p.jpg" alt="Resume"></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">GitHub Trophies</h3>
@@ -35,44 +35,44 @@
 
 ## Platform:
 <div align=center>
-<img src="images/platform/linux.png" height="30" alt="Linux">&nbsp;&nbsp;
-<img src="images/platform/windows.png" height="30" alt="Windows">&nbsp;&nbsp;
-<img src="images/platform/macos.png" height="30" alt="macOS">&nbsp;&nbsp;
+<img src="images/platform/linux.png" height="40" alt="Linux">&nbsp;&nbsp;
+<img src="images/platform/windows.png" height="40" alt="Windows">&nbsp;&nbsp;
+<img src="images/platform/macos.png" height="40" alt="macOS">&nbsp;&nbsp;
 </div>
 
 ## Languages:
 <div align=center>
-<img src="images/pl/c.png" height="30" alt="C">&nbsp;&nbsp;
-<img src="images/pl/python.png" height="30" alt="Python">&nbsp;&nbsp;
-<img src="images/pl/bash.png" height="30" alt="Bash">&nbsp;&nbsp;
+<img src="images/pl/c.png" height="40" alt="C">&nbsp;&nbsp;
+<img src="images/pl/python.png" height="40" alt="Python">&nbsp;&nbsp;
+<img src="images/pl/bash.png" height="40" alt="Bash">&nbsp;&nbsp;
 </div>
 
 ## Frontend or UI/UX:
 <div align=center>
-<img src="images/frontend/html.png" height="30" alt="HTML">&nbsp;&nbsp;
-<img src="images/frontend/css.png" height="30" alt="CSS">&nbsp;&nbsp;
-<img src="images/frontend/figma.png" height="30" alt="Figma">&nbsp;&nbsp;
+<img src="images/frontend/html.png" height="40" alt="HTML">&nbsp;&nbsp;
+<img src="images/frontend/css.png" height="40" alt="CSS">&nbsp;&nbsp;
+<img src="images/frontend/figma.png" height="40" alt="Figma">&nbsp;&nbsp;
 </div>
 
 ## Database:
 <div align=center>
-<img src="images/db/mysql.png" height="30" alt="MySQL">&nbsp;&nbsp;
-<img src="images/db/mariadb.png" height="30" alt="MariaDB">&nbsp;&nbsp;
+<img src="images/db/mysql.png" height="40" alt="MySQL">&nbsp;&nbsp;
+<img src="images/db/mariadb.png" height="40" alt="MariaDB">&nbsp;&nbsp;
 </div>
 
 ## Cloud/DevOps:
 <div align=center>
-<img src="images/cloud/gcp.png" height="30" alt="Google Cloud Platform">&nbsp;&nbsp;
-<img src="images/cloud/aws.png" height="30" alt="Amazon Web Services">&nbsp;&nbsp;
-<img src="images/cloud/git.png" height="30" alt="Git">&nbsp;&nbsp;
-<img src="images/cloud/github.png" height="30" alt="GitHub">&nbsp;&nbsp;
-<img src="images/cloud/docker.png" height="30" alt="Docker">&nbsp;&nbsp;
-<img src="images/cloud/kubernetes.png" height="30" alt="Kubernetes">&nbsp;&nbsp;
+<img src="images/cloud/gcp.png" height="40" alt="Google Cloud Platform">&nbsp;&nbsp;
+<img src="images/cloud/aws.png" height="40" alt="Amazon Web Services">&nbsp;&nbsp;
+<img src="images/cloud/git.png" height="40" alt="Git">&nbsp;&nbsp;
+<img src="images/cloud/github.png" height="40" alt="GitHub">&nbsp;&nbsp;
+<img src="images/cloud/docker.png" height="40" alt="Docker">&nbsp;&nbsp;
+<img src="images/cloud/kubernetes.png" height="40" alt="Kubernetes">&nbsp;&nbsp;
 </div>
 
 ## IoT:
 <div align=center>
-<img src="images/iot/arduino.png" height="30" alt="Arduino">&nbsp;&nbsp;
-<img src="images/iot/rpi.png" height="30" alt="Raspberry Pi">&nbsp;&nbsp;
-<img src="images/iot/node-red.png" height="30" alt="Node-RED">&nbsp;&nbsp;
+<img src="images/iot/arduino.png" height="40" alt="Arduino">&nbsp;&nbsp;
+<img src="images/iot/rpi.png" height="40" alt="Raspberry Pi">&nbsp;&nbsp;
+<img src="images/iot/node-red.png" height="40" alt="Node-RED">&nbsp;&nbsp;
 </div>
