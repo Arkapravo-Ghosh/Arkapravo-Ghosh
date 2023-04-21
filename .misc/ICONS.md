@@ -1,6 +1,6 @@
 <h1 align=center>Icons</h1>
 
-> Icons are available in [this Figma file](https://www.figma.com/file/Dej3ZTQGOsrz5ucnnaohOI/Ark-README-Icons?node-id=1%3A2&t=iPVy4OduYdpMgymm-1).
+> Icons are available in original format in [this Figma file](https://www.figma.com/file/Dej3ZTQGOsrz5ucnnaohOI/Ark-README-Icons?node-id=1%3A2&t=iPVy4OduYdpMgymm-1).
 <div align=center>
     <div>
         <h1>Platform Icons</h1>
