@@ -39,7 +39,7 @@
 <h1>Platform:&nbsp;&nbsp;
 <img src="images/platform/macos.png" height="30" alt="macOS" align=right>&nbsp;&nbsp;
 <img src="images/platform/windows.png" height="30" alt="Windows" align=right>&nbsp;&nbsp;
-<img src="images/platform/linux.png" height="30" alt="Linux" align=right>&nbsp;&nbsp;
+<img src="images/platform/linux.svg" height="30" alt="Linux" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Languages:&nbsp;&nbsp;
