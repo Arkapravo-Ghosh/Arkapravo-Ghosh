@@ -55,8 +55,8 @@
 </h1>
 
 <h1>Database:&nbsp;&nbsp;
-<img src="images/db/mariadb.png" height="34" alt="MariaDB" align=right>&nbsp;&nbsp;
-<img src="images/db/mysql.png" height="34" alt="MySQL" align=right>&nbsp;&nbsp;
+<img src="images/db/mariadb.svg" height="34" alt="MariaDB" align=right>&nbsp;&nbsp;
+<img src="images/db/mysql.svg" height="34" alt="MySQL" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Cloud:&nbsp;&nbsp;
