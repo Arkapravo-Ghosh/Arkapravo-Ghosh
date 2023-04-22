@@ -6,9 +6,9 @@
 <h3 align="center">Social Media</h3>
 
 <p align="center">
-<a href="https://twitter.com/ArkapravoGhosh1"><img height="34" src="images/social/t.jpg" alt="Twitter"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/arkapravo-ghosh/"><img height="34" src="images/social/l.png" alt="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://raw.githubusercontent.com/Arkapravo-Ghosh/ark-resume/main/Arkapravo_Ghosh_Resume.pdf"><img height="34" src="images/social/p.jpg" alt="Resume"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/ArkapravoGhosh1"><img height="34" src="images/social/twitter.svg" alt="Twitter"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arkapravo-ghosh/"><img height="34" src="images/social/linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/Arkapravo-Ghosh/ark-resume/main/Arkapravo_Ghosh_Resume.pdf"><img height="34" src="images/social/resume.svg" alt="Resume"></a>&nbsp;&nbsp;
 </p>
 
 <h3 align="center">GitHub Trophies</h3>

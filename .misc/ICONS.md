@@ -40,4 +40,10 @@
         <img height="150px" src="../images/iot/rpi.svg" alt="Raspberry Pi Icon">
         <img height="150px" src="../images/iot/node-red.svg" alt="Node-RED Icon">
     </div>
+    <div>
+        <h1>Social Media Icons</h1>
+        <img height="150px" src="../images/social/twitter.svg" alt="Twitter Icon">
+        <img height="150px" src="../images/social/linkedin.svg" alt="LinkedIn Icon">
+        <img height="150px" src="../images/social/resume.svg" alt="Resume Icon">
+    </div>
 </div>
