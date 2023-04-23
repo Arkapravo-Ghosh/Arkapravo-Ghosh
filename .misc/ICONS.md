@@ -18,6 +18,7 @@
         <h1>Frontend or UI/UX Icons</h1>
         <img height="150px" src="../images/frontend/html.svg" alt="HTML Icon">
         <img height="150px" src="../images/frontend/css.svg" alt="CSS Icon">
+        <img height="150px" src="../images/frontend/react.svg" alt="React Icon">
         <img height="150px" src="../images/frontend/figma.svg" alt="Figma Icon">
     </div>
     <div>
