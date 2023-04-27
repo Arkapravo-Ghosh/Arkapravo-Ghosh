@@ -34,7 +34,7 @@
 </h1>
 
 <h1>Platform:&nbsp;&nbsp;
-<img src="images/platform/macos.svg" height="34" alt="macOS" align=right>
+<img src="images/platform/macos.svg" height="34" alt="macOS" align=right>&nbsp;&nbsp;
 <img src="images/platform/windows.svg" height="34" alt="Windows" align=right>&nbsp;&nbsp;
 <img src="images/platform/linux.svg" height="34" alt="Linux" align=right>&nbsp;&nbsp;
 </h1>
