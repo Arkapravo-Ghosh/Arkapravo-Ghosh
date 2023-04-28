@@ -25,7 +25,7 @@
 <p></p>
 <img src="https://github-readme-stats.vercel.app/api?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000" alt="GitHub Stats">
 &nbsp;
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B" height="195px" alt="Language Stats">
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex" height="195px" alt="Language Stats">
 </div>
 <br>
 <h1 align=center>
