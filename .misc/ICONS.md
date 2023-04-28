@@ -18,8 +18,14 @@
         <h1>Frontend or UI/UX Icons</h1>
         <img height="150px" src="../images/frontend/html.svg" alt="HTML Icon">
         <img height="150px" src="../images/frontend/css.svg" alt="CSS Icon">
+        <img height="150px" src="../images/frontend/js.svg" alt="JS Icon">
         <img height="150px" src="../images/frontend/react.svg" alt="React Icon">
         <img height="150px" src="../images/frontend/figma.svg" alt="Figma Icon">
+    </div>
+    <div>
+        <h1>Backend Icons</h1>
+        <img height="150px" src="../images/backend/node.svg" alt="Node Icon">
+        <img height="150px" src="../images/backend/express.svg" alt="Express Icon">
     </div>
     <div>
         <h1>Database Icons</h1>

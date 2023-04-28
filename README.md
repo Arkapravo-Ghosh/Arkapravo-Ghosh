@@ -25,7 +25,7 @@
 <p></p>
 <img src="https://github-readme-stats.vercel.app/api?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000" alt="GitHub Stats">
 &nbsp;
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex" height="195px" alt="Language Stats">
+<img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" height="195px" alt="Language Stats">
 </div>
 <br>
 <h1 align=center>
@@ -48,8 +48,14 @@
 <h1>Frontend or UI/UX:&nbsp;&nbsp;
 <img src="images/frontend/figma.svg" height="34" alt="Figma" align=right>&nbsp;&nbsp;
 <img src="images/frontend/react.svg" height="34" alt="React" align=right>&nbsp;&nbsp;
+<img src="images/frontend/js.svg" height="34" alt="JS" align=right>&nbsp;&nbsp;
 <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
 <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>Backend:&nbsp;&nbsp;
+<img src="images/backend/express.svg" height="34" alt="Express" align=right>&nbsp;&nbsp;
+<img src="images/backend/node.svg" height="34" alt="Node" align=right>&nbsp;&nbsp;
 </h1>
 
 <h1>Database:&nbsp;&nbsp;
