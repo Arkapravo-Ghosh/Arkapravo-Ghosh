@@ -1,4 +1,4 @@
-<p align="center"><img src="images/header/github-header-image.png" /></p>
+<p align="center"><img src="images/header/ArkCoverRounded.svg" /></p>
 
 ![status](https://img.shields.io/badge/Btw-I%20use%20Arch-blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkapravo-Ghosh.Arkapravo-Ghosh)
