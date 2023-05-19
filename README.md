@@ -24,7 +24,7 @@
 <img height="160px" width="160px" src="images/wings/Right.svg" alt="Right Wing">
 <p></p>
 <img src="https://github-readme-stats.vercel.app/api?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&count_private=true" alt="GitHub Stats">
-&nbsp;
+&nbsp;&nbsp;
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs?username=Arkapravo-Ghosh&show_icons=true&locale=en&theme=github_dark&hide_border=true&bg_color=000000&layout=compact&langs_count=10&hide=assembly,fortran,rust,java,r,dart,c%23,jupyter%20notebook,c%2B%2B,tex,pug" height="194.8px" alt="Language Stats">
 </div>
 <br>
