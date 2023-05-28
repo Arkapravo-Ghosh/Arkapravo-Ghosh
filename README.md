@@ -15,7 +15,7 @@
 <div align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Arkapravo-Ghosh&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=5&title=MultiLanguage,Joined2020,Commits,Followers,Stars)
-![trophy](https://github-profile-trophy.vercel.app/?username=Arkapravo-Ghosh&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=3&title=PullRequest,Repositories,Issues)
+![trophy](https://github-profile-trophy.vercel.app/?username=Arkapravo-Ghosh&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=4&title=PullRequest,Repositories,Reviews,Issues)
 </div>
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
