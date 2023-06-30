@@ -37,6 +37,7 @@
         <h1>Cloud/DevOps Icons</h1>
         <img height="150px" src="../images/cloud/gcp.svg" alt="Google Cloud Platform Icon">
         <img height="150px" src="../images/cloud/aws.svg" alt="Amazon Web Services Icon">
+        <img height="150px" src="../images/cloud/digitalocean.svg" alt="DigitalOcean Icon">
         <img height="150px" src="../images/cloud/git.svg" alt="Git Icon">
         <img height="150px" src="../images/cloud/github.svg" alt="GitHub Icon">
         <img height="150px" src="../images/cloud/docker.svg" alt="Docker Icon">

@@ -65,6 +65,7 @@
 </h1>
 
 <h1>Cloud:&nbsp;&nbsp;
+<img src="images/cloud/digitalocean.svg" height="34" alt="DigitalOcean" align=right>&nbsp;&nbsp;
 <img src="images/cloud/aws.svg" height="34" alt="Amazon Web Services" align=right>&nbsp;&nbsp;
 <img src="images/cloud/gcp.svg" height="34" alt="Google Cloud Platform" align=right>&nbsp;&nbsp;
 </h1>
