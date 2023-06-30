@@ -47,6 +47,7 @@
 
 <h1>Frontend or UI/UX:&nbsp;&nbsp;
 <img src="images/frontend/figma.svg" height="34" alt="Figma" align=right>&nbsp;&nbsp;
+<img src="images/frontend/next.svg" height="34" alt="Next" align=right>&nbsp;&nbsp;
 <img src="images/frontend/react.svg" height="34" alt="React" align=right>&nbsp;&nbsp;
 <img src="images/frontend/js.svg" height="34" alt="JS" align=right>&nbsp;&nbsp;
 <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;

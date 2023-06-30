@@ -20,6 +20,7 @@
         <img height="150px" src="../images/frontend/css.svg" alt="CSS Icon">
         <img height="150px" src="../images/frontend/js.svg" alt="JS Icon">
         <img height="150px" src="../images/frontend/react.svg" alt="React Icon">
+        <img height="150px" src="../images/frontend/next.svg" alt="Next Icon">
         <img height="150px" src="../images/frontend/figma.svg" alt="Figma Icon">
     </div>
     <div>
