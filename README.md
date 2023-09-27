@@ -1,7 +1,9 @@
 <p align="center"><img src="images/header/ArkCoverGitHub.svg" alt="Cover Image" /></p>
 
+<!--
 ![status](https://img.shields.io/badge/Btw-I%20use%20Arch-blue)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Arkapravo-Ghosh.Arkapravo-Ghosh)
+-->
 
 <h3 align="center">Social Media</h3>
 
