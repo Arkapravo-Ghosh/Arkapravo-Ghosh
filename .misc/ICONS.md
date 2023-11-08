@@ -13,6 +13,7 @@
         <img height="150px" src="../images/frontend/html.svg" alt="HTML Icon">
         <img height="150px" src="../images/frontend/css.svg" alt="CSS Icon">
         <img height="150px" src="../images/frontend/js.svg" alt="JS Icon">
+        <img height="150px" src="../images/frontend/ts.svg" alt="TS Icon">
         <img height="150px" src="../images/pl/python.svg" alt="Python Icon">
         <img height="150px" src="../images/pl/c.svg" alt="C Icon">
         <img height="150px" src="../images/pl/bash.svg" alt="Bash Icon">

@@ -34,7 +34,6 @@
 
 :open_book: :books: Skilled in :closed_book: :desktop_computer:
 </h1>
-
 <h1>Platform:&nbsp;&nbsp;
     <img src="images/platform/macos.svg" height="34" alt="macOS" align=right>&nbsp;&nbsp;
     <img src="images/platform/windows.svg" height="34" alt="Windows" align=right>&nbsp;&nbsp;
@@ -45,6 +44,7 @@
     <img src="images/pl/bash.svg" height="34" alt="Bash" align=right>&nbsp;&nbsp;
     <img src="images/pl/c.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
     <img src="images/pl/python.svg" height="34" alt="Python" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/ts.svg" height="34" alt="TS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/js.svg" height="34" alt="JS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
@@ -62,6 +62,7 @@
 </h1>
 
 <h1>Database:&nbsp;&nbsp;
+    <img src="images/db/mongodb.svg" height="34" alt="MongoDB" align=right>&nbsp;&nbsp;
     <img src="images/db/mariadb.svg" height="34" alt="MariaDB" align=right>&nbsp;&nbsp;
     <img src="images/db/mysql.svg" height="34" alt="MySQL" align=right>&nbsp;&nbsp;
 </h1>
