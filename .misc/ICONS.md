@@ -10,15 +10,15 @@
     </div>
     <div>
         <h1>Language Icons</h1>
+        <img height="150px" src="../images/frontend/html.svg" alt="HTML Icon">
+        <img height="150px" src="../images/frontend/css.svg" alt="CSS Icon">
+        <img height="150px" src="../images/frontend/js.svg" alt="JS Icon">
         <img height="150px" src="../images/pl/python.svg" alt="Python Icon">
         <img height="150px" src="../images/pl/c.svg" alt="C Icon">
         <img height="150px" src="../images/pl/bash.svg" alt="Bash Icon">
     </div>
     <div>
         <h1>Frontend or UI/UX Icons</h1>
-        <img height="150px" src="../images/frontend/html.svg" alt="HTML Icon">
-        <img height="150px" src="../images/frontend/css.svg" alt="CSS Icon">
-        <img height="150px" src="../images/frontend/js.svg" alt="JS Icon">
         <img height="150px" src="../images/frontend/react.svg" alt="React Icon">
         <img height="150px" src="../images/frontend/next.svg" alt="Next Icon">
         <img height="150px" src="../images/frontend/figma.svg" alt="Figma Icon">
