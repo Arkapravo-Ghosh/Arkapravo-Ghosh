@@ -1,4 +1,4 @@
-<p align="center"><img src="images/header/ArkCoverGitHub.svg" alt="Cover Image" /></p>
+<p align="center"><img src="images/header/ArkHeaderGitHub.svg" alt="Cover Image" /></p>
 
 <!--
 ![status](https://img.shields.io/badge/Btw-I%20use%20Arch-blue)
