@@ -18,6 +18,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Arkapravo-Ghosh&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=6&title=MultiLanguage,Joined2020,Organizations,Commits,Reviews,Followers)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Arkapravo-Ghosh&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4&column=5&title=Stars,PullRequest,Repositories,Experience,Issues)
+
 </div>
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
@@ -33,6 +34,7 @@
 <h1 align=center>
 
 :open_book: :books: Skilled in :closed_book: :desktop_computer:
+
 </h1>
 <h1>Platform:&nbsp;&nbsp;
     <img src="images/platform/macos.svg" height="34" alt="macOS" align=right>&nbsp;&nbsp;
@@ -57,6 +59,7 @@
 </h1>
 
 <h1>Backend:&nbsp;&nbsp;
+    <img src="images/backend/fastapi.svg" height="34" alt="FastAPI" align=right>&nbsp;&nbsp;
     <img src="images/backend/express.svg" height="34" alt="Express" align=right>&nbsp;&nbsp;
     <img src="images/backend/node.svg" height="34" alt="Node" align=right>&nbsp;&nbsp;
 </h1>
