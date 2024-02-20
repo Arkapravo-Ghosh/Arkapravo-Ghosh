@@ -95,7 +95,7 @@
 
 | Role | Organisation | Time Period | Type |
 |-------------|--------------|--------------|------|
-| Backend Developer | [RevMaxx](https://www.linkedin.com/company/revmaxx) | Feb 2024 - Present | Part-Time |
+| Engineering Lead | [RevMaxx](https://www.linkedin.com/company/revmaxx) | Feb 2024 - Present | Part-Time |
 | DevSecOps Engineer | [PepHub](https://www.linkedin.com/company/pephub) | Jun 2023 - Present | Internship |
 
 </div>
