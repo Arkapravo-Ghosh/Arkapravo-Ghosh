@@ -105,6 +105,7 @@
 
 | Role | Organisation/Community | Time Period | Description |
 |-------------|--------------|--------------|------|
+| Event Coordinator | [Ureckon](https://www.linkedin.com/company/ureckon) | Jan 2024 - Feb 2024 | Coordinated and Create Machines for Cyber Cipher Event (Cybersecurity CTF Competition) in Ureckon 2024 |
 | Web Developer | [Ureckon](https://www.linkedin.com/company/ureckon) | Dec 2023 - Present | Built the Website of Ureckon 2024 (U6) and Building the Website of Ureckathon 2024 as a part of the Dev Team. |
 | UI/UX Designer | [Ureckon](https://www.linkedin.com/company/ureckon) | Nov 2023 - Feb 2024 | Designed the Website of Ureckon 2024 (U6) and Ureckathon 2024 as a part of the Design Team. |
 | Web Developer | [Hack4Bengal](https://www.linkedin.com/company/hack4bengal) | Nov 2023 - Present | Building the Website of Hack4Bengal Season 3 as a part of the Web Team. |
