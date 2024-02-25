@@ -48,6 +48,7 @@
     <img src="images/pl/python.svg" height="34" alt="Python" align=right>&nbsp;&nbsp;
     <img src="images/frontend/ts.svg" height="34" alt="TS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/js.svg" height="34" alt="JS" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/sass.svg" height="34" alt="SCSS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
     <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
 </h1>
@@ -79,6 +80,7 @@
 <h1>DevOps:&nbsp;&nbsp;
     <img src="images/cloud/kubernetes.svg" height="34" alt="Kubernetes" align=right>&nbsp;&nbsp;
     <img src="images/cloud/docker.svg" height="34" alt="Docker" align=right>&nbsp;&nbsp;
+    <img src="images/cloud/jenkins.svg" height="34" alt="Jenkins" align=right>&nbsp;&nbsp;
     <img src="images/cloud/github.svg" height="34" alt="GitHub" align=right>&nbsp;&nbsp;
     <img src="images/cloud/git.svg" height="34" alt="Git" align=right>&nbsp;&nbsp;
 </h1>
@@ -93,23 +95,23 @@
 
 <div align=center>
 
-| Role | Organisation | Time Period | Type |
-|-------------|--------------|--------------|------|
-| Engineering Lead | [RevMaxx](https://www.linkedin.com/company/revmaxx) | Feb 2024 - Present | Part-Time |
-| DevSecOps Engineer | [PepHub](https://www.linkedin.com/company/pephub) | Jun 2023 - Present | Internship |
+| Role               | Organisation                                        | Time Period        | Type       |
+| ------------------ | --------------------------------------------------- | ------------------ | ---------- |
+| Engineering Lead   | [RevMaxx](https://www.linkedin.com/company/revmaxx) | Feb 2024 - Present | Part-Time  |
+| DevSecOps Engineer | [PepHub](https://www.linkedin.com/company/pephub)   | Jun 2023 - Present | Internship |
 
 </div>
 
 <h1 align=center>Volunteering</h1>
 <div align=center>
 
-| Role | Organisation/Community | Time Period | Description |
-|-------------|--------------|--------------|------|
-| Event Coordinator | [Ureckon](https://www.linkedin.com/company/ureckon) | Jan 2024 - Feb 2024 | Coordinated and Create Machines for Cyber Cipher Event (Cybersecurity CTF Competition) in Ureckon 2024 |
-| Web Developer | [Ureckon](https://www.linkedin.com/company/ureckon) | Dec 2023 - Present | Built the Website of Ureckon 2024 (U6) and Building the Website of Ureckathon 2024 as a part of the Dev Team. |
-| UI/UX Designer | [Ureckon](https://www.linkedin.com/company/ureckon) | Nov 2023 - Feb 2024 | Designed the Website of Ureckon 2024 (U6) and Ureckathon 2024 as a part of the Design Team. |
-| Web Developer | [Hack4Bengal](https://www.linkedin.com/company/hack4bengal) | Nov 2023 - Present | Building the Website of Hack4Bengal Season 3 as a part of the Web Team. |
-| Volunteer | [Ureckon](https://www.linkedin.com/company/ureckon) | Oct 2022 - Feb 2023 | Helped with the Preparation and Management of Ureckon Innovation Challenge (UIC) 2023 along with others in the team. |
+| Role              | Organisation/Community                                      | Time Period         | Description                                                                                                          |
+| ----------------- | ----------------------------------------------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Event Coordinator | [Ureckon](https://www.linkedin.com/company/ureckon)         | Jan 2024 - Feb 2024 | Coordinated and Create Machines for Cyber Cipher Event (Cybersecurity CTF Competition) in Ureckon 2024               |
+| Web Developer     | [Ureckon](https://www.linkedin.com/company/ureckon)         | Dec 2023 - Present  | Built the Website of Ureckon 2024 (U6) and Building the Website of Ureckathon 2024 as a part of the Dev Team.        |
+| UI/UX Designer    | [Ureckon](https://www.linkedin.com/company/ureckon)         | Nov 2023 - Feb 2024 | Designed the Website of Ureckon 2024 (U6) and Ureckathon 2024 as a part of the Design Team.                          |
+| Web Developer     | [Hack4Bengal](https://www.linkedin.com/company/hack4bengal) | Nov 2023 - Present  | Building the Website of Hack4Bengal Season 3 as a part of the Web Team.                                              |
+| Volunteer         | [Ureckon](https://www.linkedin.com/company/ureckon)         | Oct 2022 - Feb 2023 | Helped with the Preparation and Management of Ureckon Innovation Challenge (UIC) 2023 along with others in the team. |
 
 </div>
 <br></br>

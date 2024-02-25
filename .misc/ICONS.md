@@ -13,6 +13,7 @@
         <h1>Language Icons</h1>
         <img height="150px" src="../images/frontend/html.svg" alt="HTML Icon">
         <img height="150px" src="../images/frontend/css.svg" alt="CSS Icon">
+        <img height="150px" src="../images/frontend/sass.svg" alt="SCSS Icon">
         <img height="150px" src="../images/frontend/js.svg" alt="JS Icon">
         <img height="150px" src="../images/frontend/ts.svg" alt="TS Icon">
         <img height="150px" src="../images/pl/python.svg" alt="Python Icon">
@@ -43,6 +44,7 @@
         <img height="150px" src="../images/cloud/digitalocean.svg" alt="DigitalOcean Icon">
         <img height="150px" src="../images/cloud/git.svg" alt="Git Icon">
         <img height="150px" src="../images/cloud/github.svg" alt="GitHub Icon">
+        <img height="150px" src="../images/cloud/jenkins.svg" alt="Jenkins Icon">
         <img height="150px" src="../images/cloud/docker.svg" alt="Docker Icon">
         <img height="150px" src="../images/cloud/kubernetes.svg" alt="Kubernetes Icon">
     </div>
