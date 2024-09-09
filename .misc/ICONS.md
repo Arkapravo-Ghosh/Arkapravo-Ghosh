@@ -24,6 +24,7 @@
         <h1>Frontend or UI/UX Icons</h1>
         <img height="150px" src="../images/frontend/react.svg" alt="React Icon">
         <img height="150px" src="../images/frontend/next.svg" alt="Next Icon">
+        <img height="150px" src="../images/frontend/angular.svg" alt="Angular Icon">
         <img height="150px" src="../images/frontend/figma.svg" alt="Figma Icon">
     </div>
     <div>
